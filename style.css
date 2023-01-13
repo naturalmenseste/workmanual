@@ -41,8 +41,8 @@ h2{
 
 .point{
   background: rgba(252, 126, 126, 0.742);
-  margin: 32px 72px;
-  border: 1px solid #ddd;
+  margin: 32px 32px;
+  /* border: 1px solid #ddd; */
   border-radius: 16px;
 }
 
