@@ -36,19 +36,20 @@ h2{
   text-align: center;
   background: #ddd;
   border-radius: 16px;
-  margin-top: 96px;
+  margin-top: 64px;
 }
 
 .point{
   background: rgba(252, 126, 126, 0.742);
-  margin: 32px 32px;
+  margin: 32px 16px;
   /* border: 1px solid #ddd; */
   border-radius: 16px;
 }
 
 .point h3{
   text-align: center;
-  margin-top: 16px;
+  margin: 16px;
+  padding-top: 16px;
 }
 
 .point p{
